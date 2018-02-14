@@ -5664,6 +5664,7 @@ button.close {
   border-width: 10px;
 }
 .popover.top > .arrow {
+  top: 100% !important;
   bottom: -11px;
   left: 50%;
   margin-left: -11px;
